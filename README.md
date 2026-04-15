@@ -1,6 +1,6 @@
 ##############################
 
-julia start.jl  
+julia start.jl    or   include("start.jl")
 
 ##############################
 
